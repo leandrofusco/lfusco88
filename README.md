@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Bem vindo ao meu perfil! 
 
-Praticante de ciência de desde a 2019, descobri na ciência de dados minha paixão.
+Praticante de ciência de dados desde 2019.
 Busco sempre me manter atualizado, estudando e praticando estatística, análise de dados, Machine Learning e apresentação de resultados.
 Sou curioso e investigativo, isso que me atrai na ciência de dados. Nas horas vagas, gosto de praticar exercícios, correr, ver filmes de ficção cientifica como Star Wars! "May the Force be with you" 
 
