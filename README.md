@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <!--
+
+
 **lfusco88/lfusco88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Leandro Fusco
+
+### Bem vindo ao meu perfil! 
+
+Praticante de ciência de desde a 2019, descobri na ciência de dados minha paixão.
+Busco sempre me manter atualizado, estudando e praticando estatística, análise de dados, Machine Learning e apresentação de resultados.
+Sou curioso e investigativo, isso que me atrai na ciência de dados. Nas horas vagas, gosto de praticar exercícios, correr, ver filmes de ficção cientifica como Star Wars! "May the Force be with you" 
+
+
+[linkdin](https://www.linkedin.com/in/leandro-fusco/)
+
+![lfusco88's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfusco88&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfusco88&layout=compact)](https://github.com/lfusco88/github-readme-stats)
