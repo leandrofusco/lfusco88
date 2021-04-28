@@ -25,7 +25,7 @@ Sou curioso e investigativo, isso que me atrai na ciência de dados. Nas horas v
 
 ### Social Media:
 
-<a target="_blank" href="https://https://www.linkedin.com/in/leandro-fusco/">
+<a target="_blank" href="https://www.linkedin.com/in/leandro-fusco/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -39,7 +39,7 @@ Sou curioso e investigativo, isso que me atrai na ciência de dados. Nas horas v
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/linkdin.svg"></code>
+
 
 ![lfusco88's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfusco88&show_icons=true&theme=radical)
 
