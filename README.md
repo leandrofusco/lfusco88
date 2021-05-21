@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Leandro Fusco
-## Bem vindo ao meu perfil! 
-:computer:
-Praticante de ciência de dados desde 2019. 🇧🇷 
-Busco sempre me manter atualizado, estudando e praticando estatística, análise de dados, Machine Learning e apresentação de resultados.
-Sou curioso e investigativo, isso que me atrai na ciência de dados. Nas horas vagas, gosto de praticar exercícios, correr, ver filmes de ficção cientifica como Star Wars! "May the Force be with you" 
+<h1> Leandro Fusco </h1>
+<h2> Bem vindo ao meu perfil! </h2>
 
-## Social Media: 
-<a target="_blank" href="https://www.linkedin.com/in/leandro-fusco/" target="_blank">
-  <img align="center" alt="LinkdeIN" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" />
+<p> Praticante em ciência de dados.  :computer: </p>
+<p> Busco sempre me manter atualizado, estudando e praticando estatística, análise de dados, Machine Learning e apresentação de resultados. </p>
+<p> Sou curioso e investigativo. </p>
+<p>Nas horas vagas, gosto de praticar exercícios, correr, ver filmes de ficção cientifica como Star Wars! "May the Force be with you" </p>
+
+<h2> Social Media: </h2>
+
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519982666671">
-  <img align="left" alt="Whatsapp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>  ----
+  <img align="left" alt="Whatsapp" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>  
+<a href="https://www.linkedin.com/in/leandro-fusco/" target="_blank">
+  <img align="center" alt="LinkdeIN" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" />
 
-## Programming Language 
+
+<h2> Programming Language: </h2>
 
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
