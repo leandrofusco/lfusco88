@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1> Leandro Fusco </h1>
-<h2> Bem vindo ao meu perfil! </h2>
+<h2> Welcome to my profile! </h2>
 
-<p> Praticante em ciência de dados.  :computer: </p>
-<p> Busco sempre me manter atualizado, estudando e praticando estatística, análise de dados, Machine Learning e apresentação de resultados. </p>
-<p> Sou curioso e investigativo. </p>
-<p>Nas horas vagas, gosto de praticar exercícios, correr, ver filmes de ficção cientifica como Star Wars! "May the Force be with you" </p>
+<p> Practitioner in data science.  :computer: </p>
+<p> I always try to keep myself updated, studying and practicing statistics, data analysis, Machine Learning and presentation of results. </p>
+<p> I am curious and investigative. </p>
+<p> In my spare time, I like to exercise, run, watch sci-fi movies like Star Wars! "May the Force be with you" </p>
 
 <h2> Social Media: </h2>
 
