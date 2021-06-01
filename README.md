@@ -18,10 +18,18 @@ Here are some ideas to get you started:
 <h1> Leandro Fusco </h1>
 <h2> Welcome to my profile! </h2>
 
-<p> Practitioner in data science.  :computer: </p>
-<p> I always try to keep myself updated, studying and practicing statistics, data analysis, Machine Learning and presentation of results. </p>
-<p> I am curious and investigative. </p>
-<p> In my spare time, I like to exercise, run, watch sci-fi movies like Star Wars! "May the Force be with you" </p>
+<p> <strong>Practitioner in data science.</strong>  :computer: </p>
+<p> <strong>I always try to keep myself updated, studying and practicing statistics, data analysis, Machine Learning and presentation of results.</strong> </p>
+<p> <strong>I am curious and investigative.</strong> </p>
+<p> <strong>In my spare time, I like to exercise, run, watch sci-fi movies like Star Wars! "May the Force be with you" </strong></p>
+
+<h2> I have already completed these data science courses : </h2>
+<p><strong>DSA Academy Formação Cientista de Dados</strong> </p>
+<p><strong>Consultas SQL: Avançando no SQL com MySQL</strong></p>
+<p><strong>Python 3: Introdução a Orientação a objetos</strong></p>
+<p><strong>Python Pandas: Técnicas avançadas</strong></p>
+<p><strong>Scraping com Python: Coleta de dados na web</strong></p>
+<p><strong>Flask parte 1: Crie uma webapp com Python 3</strong></p>
 
 <h2> Social Media: </h2>
 
