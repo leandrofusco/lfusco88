@@ -27,12 +27,22 @@ Here are some ideas to get you started:
 <div>
 <h2 align="center"> I have already completed these data science courses : </h2>
 <ul>
-<li><em><strong>DSA Academy Formação Cientista de Dados</strong></em> </li>
-<li><em><strong>Consultas SQL: Avançando no SQL com MySQL</strong></em></li>
-<li><em><strong>Python 3: Introdução a Orientação a objetos</strong></em></li>
-<li><em><strong>Python Pandas: Técnicas avançadas</strong></em></li>
-<li><em><strong>Scraping com Python: Coleta de dados na web</strong></em></li>
-<li><em><strong>Flask parte 1: Crie uma webapp com Python 3</strong></em></li></ul>
+<li><em><strong>DSA Academy Formação Cientista de Dados</strong></em> </li></ul>
+<li><em><strong>Cursos ALURA:</strong></em> </li>   
+ <ul> 
+<li><em><strong>Consultas SQL: Avançando no SQL com MySQL</em></li>
+<li><em><strong>Python 3: Introdução a Orientação a objetos</em></li>
+<li><em><strong>Python Pandas: Técnicas avançadas</em></li>
+<li><em><strong>Scraping com Python: Coleta de dados na web</em></li>
+<li><em><strong>Flask parte 1: Crie uma webapp com Python 3</em></li>
+<li><em><strong>Machine Learning: Credit Scoring</em></li>
+<li><em><strong>Consultas SQL: Avançando no SQL com MySQL</em></li>
+<li><em><strong>Modelos preditivos em dados: detecção de fraude</em></li> 
+<li><em><strong>Business Intelligence: Introdução à inteligência empresarial</em></li> 
+<li><em><strong>Estatística II: Aprofundando em hipóteses e correlações</em></li>
+<li><em><strong>Classificação multilabel de textos: múltiplos contextos em NLP</strong></em></li>
+<li><em><strong>Data Analytics: Machine Learning no Marketing Digital</em></li>
+<li><em><strong>Data Analytics: Machine Learning com Google Cloud Platform</em></li></ul> 
 </div>
 <div>
 <h2 align="center"> Social Media: </h2>
