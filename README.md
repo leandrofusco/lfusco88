@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </div>
 <div>
 <h2 align="center"> I have already completed these data science courses : </h2>
-<ul>
-<li><em><strong>DSA Academy Formação Cientista de Dados</strong></em> </li></ul>
+
+<li><em><strong>DSA Academy Formação Cientista de Dados</strong></em> </li>
 <li><em><strong>Cursos ALURA:</strong></em> </li>   
  <ul> 
 <li><em><strong>Consultas SQL: Avançando no SQL com MySQL</em></li>
