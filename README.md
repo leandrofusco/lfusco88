@@ -19,9 +19,17 @@ Here are some ideas to get you started:
 <div>
 <h2 align="center"> Welcome to my profile! </h2>
 <ul>
-<li> <strong>Practitioner in data science.</strong>  :computer: </li>
-<li> <strong>I always try to keep myself updated, studying and practicing statistics, data analysis, Machine Learning and presentation of results.</strong> </li>
-<li> <strong>I am curious and investigative.</strong> </li>
+
+
+
+
+
+<li> <strong>Currently i work as data scientist .</strong>  :computer: </li>
+<li> <strong>I have work experience with projects, data engineering, and data science:</strong> </li>
+<li> <strong>Work experience creating machine learning models, such as Demand Forecasting, Fraud in-app payments, House prices prediction, Delivery time model (ETA), consumer retention,
+and dynamic pricing of bottles;
+Programming experience in languages Python, Spark, SQL and R.
+</strong> </li>
 <li> <strong>In my spare time, I like to exercise, run, watch sci-fi movies like Star Wars! "May the Force be with you" </strong></li></ul>
 </div>
 <div>
